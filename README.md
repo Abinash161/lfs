@@ -163,7 +163,7 @@ CONFIG_INPUT_UINPUT=y
 
 First build accumulated too many fixes over a week without documentation. System worked but the mental model of what was installed and why was lost. Rather than maintain a system that couldn't be reasoned about, it was rebuilt from scratch.
 
-**Lesson:** On LFS, an undocumented working system is already broken — it just hasn't failed yet.
+**Lesson:** On LFS, an undocumented working system and the system with user having no idea how it worked is already broken.
 
 Second build was faster, cleaner, and every fix was understood.
 
